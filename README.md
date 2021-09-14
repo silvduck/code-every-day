@@ -1,7 +1,6 @@
 # Code Every Day
-##### _letting the inspiration flow, programming every day in different languages_
 
-***
+_letting the inspiration flow, programming every day in different languages_
 
 ### Daily projects
 
